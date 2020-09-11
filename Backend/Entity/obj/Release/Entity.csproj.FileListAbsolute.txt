@@ -1,0 +1,6 @@
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\bin\Release\Entity.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\bin\Release\Entity.pdb
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Release\Entity.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Release\Entity.pdb

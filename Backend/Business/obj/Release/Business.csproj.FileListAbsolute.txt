@@ -1,0 +1,11 @@
+C:\Source\Fullstack.NET-DEMO\Backend\Business\bin\Release\Business.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Business\bin\Release\Business.pdb
+C:\Source\Fullstack.NET-DEMO\Backend\Business\bin\Release\Entity.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Business\bin\Release\Repository.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Business\bin\Release\Entity.pdb
+C:\Source\Fullstack.NET-DEMO\Backend\Business\bin\Release\Repository.pdb
+C:\Source\Fullstack.NET-DEMO\Backend\Business\obj\Release\Business.csprojAssemblyReference.cache
+C:\Source\Fullstack.NET-DEMO\Backend\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\Source\Fullstack.NET-DEMO\Backend\Business\obj\Release\Business.csproj.CopyComplete
+C:\Source\Fullstack.NET-DEMO\Backend\Business\obj\Release\Business.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Business\obj\Release\Business.pdb

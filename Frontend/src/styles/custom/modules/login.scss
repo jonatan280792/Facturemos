@@ -1,0 +1,61 @@
+.login-section {
+  background: #e4e4e4;
+  font-family: $fuente-monserrat;
+
+  .section-formulario {
+    height: auto;
+    min-height: 100%;
+    padding: 26px;
+
+    .align-img {
+      padding-top: 40px;
+      text-align: center;
+
+      .img-logo {
+        width: 40%;
+      }
+    }
+
+    .title-login {
+      font-weight: $font-weight-7;
+      padding-top: 24px;
+      text-align: center;
+    }
+
+    .form-login {
+      padding-top: 60px;
+      text-align: center;
+
+      .input-form {
+        width: 60%;
+      }
+
+      .form-submit {
+        padding-top: 36px;
+      }
+
+      .errorLogin {
+        color: $color-alert;
+        font-weight: $font-weight-7;
+        font-size: $font-errors;
+      }
+
+      .user-field {
+        margin-bottom: 0;
+        width: 100%;
+
+        .label-detail {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .image-banner {
+    margin-right: -27px;
+
+    .height {
+      height: 657px;
+    }
+  }
+}

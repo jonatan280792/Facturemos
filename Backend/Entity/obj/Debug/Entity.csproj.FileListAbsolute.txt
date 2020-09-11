@@ -1,0 +1,10 @@
+C:\Users\jonat\source\repos\ServiceUrl\Entity\bin\Debug\Entity.dll
+C:\Users\jonat\source\repos\ServiceUrl\Entity\bin\Debug\Entity.pdb
+C:\Users\jonat\source\repos\ServiceUrl\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\ServiceUrl\Entity\obj\Debug\Entity.dll
+C:\Users\jonat\source\repos\ServiceUrl\Entity\obj\Debug\Entity.pdb
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\bin\Debug\Entity.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\bin\Debug\Entity.pdb
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Debug\Entity.dll
+C:\Source\Fullstack.NET-DEMO\Backend\Entity\obj\Debug\Entity.pdb
