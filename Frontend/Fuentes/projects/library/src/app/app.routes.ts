@@ -17,7 +17,7 @@ const AppRoutes: Routes = [
         path: 'register'
       },
       {
-        canActivate: [SessionAuthGuard],
+        // canActivate: [SessionAuthGuard],
         loadChildren: () => import('@modules/library/home/home.module').then(m => m.HomeModule),
         path: ''
       },
